@@ -1,5 +1,14 @@
 {
+  "name": "umassparli",
+  "version": "1.0.0",
+  "description": "umass debate society website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "daisyui": "^4.3.1"
+    "tailwindcss": "^3.3.5"
   }
 }
